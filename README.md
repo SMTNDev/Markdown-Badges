@@ -60,7 +60,7 @@ To use a badge:
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
     2. Enter the name of the badge you need.
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
-- You could also visit the live site at [SMTNDev.github.io/markdown-badges/](https://github.com/SMTNDev/Markdown-Badges.git)
+- You could also visit the live site at [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/SMTNDev/Markdown-Badges.git)
 
 # Tips
 
@@ -74,11 +74,11 @@ To use a badge:
 Shields.io offers 5 styles, which are:
 | S/N | Types         | Styles                                                                                                    |
 | :-: | :------------ | :-------------------------------------------------------------------------------------------------------- |
-| 1   | Plastic       | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)                     |
-| 2   | Flat-square   | ![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)        |
-| 3   | Flat          | ![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat)                              |
-| 4   | Social        | ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)                        |
-| 5   | For-the-badge | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge) |
+| 1   | Plastic       | [![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)]                     |
+| 2   | Flat-square   | [![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)]        |
+| 3   | Flat          | [![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat)]                              |
+| 4   | Social        | [![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)]                        |
+| 5   | For-the-badge | [![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge)] |
 
 
 
@@ -142,7 +142,7 @@ Want to see your name here? Contribute to the project!
 
 ## Contact
 
-You can reach me on [X @SMTNDev](https://x.com/SMTNDev)
+You can reach me on [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SMTNDev)
 
 ## License
 
