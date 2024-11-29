@@ -105,7 +105,40 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 
 ## Contribution
 
-The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SMTNDev">
+        <img src="https://avatars.githubusercontent.com/u/190024054?v=4" width="100px;" alt="NinjaXP"/>
+        <br />
+        <sub><b>SMTNDev</b></sub>
+      </a>
+      <br />
+      🚀 Maintainer
+    </td>
+    <td align="center">
+      <a href="https://github.com/craftingeagle">
+        <img src="https://avatars.githubusercontent.com/u/162383653?v=4" width="100px;" alt="Contributor"/>
+        <br />
+        <sub><b>Code Crafting Eagle</b></sub>
+      </a>
+      <br />
+      💡 Contributor
+    </td>
+    <td align="center">
+      <a href="https://github.com/softzeststudio">
+        <img src="https://avatars.githubusercontent.com/u/180181522?v=4" width="100px;" alt="Contributor"/>
+        <br />
+        <sub><b>SoftZest Studio</b></sub>
+      </a>
+      <br />
+      💡 Contributor
+    </td>
+  </tr>
+</table>
+
+Want to see your name here? Contribute to the project!
+
 
 ## Contact
 
