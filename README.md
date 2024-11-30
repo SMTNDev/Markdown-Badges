@@ -1,10 +1,10 @@
 ![Markdown-badge-SMTNdev-stripped-image_20241129_223536_0000](https://github.com/user-attachments/assets/38ebdb8a-e7df-4dab-967f-5b020a1efd49)
 
 
-# Markdown Badges
+## Markdown Badges
 Add badges to your Profile and Projects.
 
-# Table of contents
+## Table of contents
 - [Markdown Badges](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
@@ -54,7 +54,7 @@ Add badges to your Profile and Projects.
    </details>
 
 
-# Usage
+## Usage
 To use a badge:
 - Via GitHub
     1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
@@ -62,7 +62,7 @@ To use a badge:
     3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
 - You could also visit the live site at [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/SMTNDev/Markdown-Badges.git)
 
-# Tips
+## Tips
 
 <details> 
 <summary>👇 How to use a different badge style</summary>
@@ -150,7 +150,7 @@ You can reach me on [![X](https://img.shields.io/badge/X-%23000000.svg?style=for
 <hr>
 <hr>
 
-# Badges
+## Badges
 
 ### 🤖 Artificial Intelligence and Bots
 
